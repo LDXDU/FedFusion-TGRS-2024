@@ -1,12 +1,6 @@
 # FedFusion: Manifold Driven Federated Learning for Multi-satellite and Multi-modality Fusion
-Run using the make command. Specifically including:
+Run using the **make** command. Specifically including:
 run_dist_all (all four datasets)
-
-run_dist_augsburg   run_dist_houston13  run_dist_muufl      run_dist_trento
-The running results of the four datasets are already available in the output directory.
-
-main.py:
-When reasoning, the only_valid (line 208) parameter controls whether predictions are generated only for valid labels.
 
 # ========================
 
